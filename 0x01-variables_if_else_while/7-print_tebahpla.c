@@ -1,9 +1,11 @@
 #include <stdio.h>
 
 /**
- * main - prints the lowercase alphabet in reverse,
- * followed by a new line
- * Return: Always 0 (Success)
+ * main - Entry point
+ *@void: Null value
+ *
+ * Description: Check the last digit of the number
+ * Return: Zero value to succesful
  */
 int main(void)
 
